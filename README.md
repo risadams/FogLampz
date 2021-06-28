@@ -4,6 +4,10 @@
 
 FogLampz is a .NET wrapper around around the FogBugz API.
 
+*This project is archived,  it has not been used or maintained since 2012*.
+
+Thanks for your support over the years.
+
 ## Features
 
 * Simple, Easy to use wrapper around the [Fogbugz XML API](http://www.fogcreek.com/fogbugz/docs/70/topics/advanced/api.html)
