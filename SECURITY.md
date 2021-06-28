@@ -2,7 +2,9 @@
 
 ## Supported Versions
 
-The following versions are currently being supported with security updates.
+This package is listed as an archive only.
+
+It has not been developed or supported since 2012.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,6 +15,6 @@ The following versions are currently being supported with security updates.
 
 File an issue with details and create a pull request with proposed changes
 
-- [Open an issue!](https://github.com/risadams/<Replace Title>/issues/new)
+- [Open an issue!](https://github.com/risadams/FogLampz/issues/new)
 
 Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md), and that all activity in the organization falls under it. Read it before you contribute, as being part of this community means that you agree to abide by it. Thanks.
